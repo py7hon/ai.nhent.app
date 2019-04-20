@@ -33,12 +33,12 @@ public class Constant {
     public static final String DETAIL_LIST_SIMPLE_IMG_URL = "https://kontol.nhent.ai/galleries/{0}/{1}t.{2}";
     public static final String DETAIL_LIST_IMG_URL = "https://i.bakaa.me/galleries/{0}/{1}.{2}";
 
-    //public static final String HOME_URL = "https://nhentai.net/";
-    public static final String HOME_URL = "https://id.nhent.ai/language/chinese/";
+    public static final String HOME_URL = "https://nhentai.net/";
+    //public static final String HOME_URL = "https://id.nhent.ai/language/english/";
     public static final String TAG_URL = "https://id.nhent.ai{0}";
 
 
-    public static final String DOWNLOAD_BOOK_PATH = "/nhcartoon/books/{0}";
+    public static final String DOWNLOAD_BOOK_PATH = "/nhentai/books/{0}";
     public static final String DOWNLOAD_IMG_PATH = DOWNLOAD_BOOK_PATH + "/{1}.{2}";
 
     public static final String SEARCH_URL = "https://id.nhent.ai/search/?q={0}";
